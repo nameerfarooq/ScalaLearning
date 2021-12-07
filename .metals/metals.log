@@ -2761,3 +2761,4 @@ Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, all
 [0m2021.12.07 16:22:25 WARN  no build target for: C:\Users\nameer\Desktop\MERL\scala\ScalaLearning\task3.scala[0m
 Dec 07, 2021 4:23:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+[0m2021.12.07 16:23:26 WARN  no build target for: C:\Users\nameer\Desktop\MERL\scala\ScalaLearning\task3.scala[0m
